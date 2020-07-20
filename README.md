@@ -20,7 +20,7 @@
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="twitter:url" content="https://howlonguntilprayuthleaves.com" />
+  <meta property="twitter:url" content="https://du6pey.github.io/howlonguntilprayuthleaves." />
   <meta property="twitter:title" content="เมื่อไหร่ประยุทธ์จะออกไป?" />
   <meta property="twitter:description"
     content="นับเวลาถอยหลังถึงวันที่พลเอกประยุทธ์ จันทร์โอชา จะหมดวาระการเป็นนายกรัฐมนตรี" />
@@ -153,7 +153,7 @@
 <body>
   <div class="container">
     <h1 class="heading">
-      <a href="https://howlonguntilprayuthleaves.com/">เมื่อไหร่ประยุทธ์จะออกไป?</a>
+      <a href="https://du6pey.github.io/howlonguntilprayuthleaves./">เมื่อไหร่ประยุทธ์จะออกไป?</a>
     </h1>
 
     <div class="countdown">
@@ -197,7 +197,7 @@
       </div>
     </div>
   </div>
-  <img class="i-love-prayuth" src="prayuth_song.png">
+  <img class="i-love-prayuth" src="https://raw.githubusercontent.com/phoomparin/howlonguntilprayuthleaves.com/master/prayuth_song.png">
   <script>
     const yearsEl = document.querySelector('.years')
     const monthsEl = document.querySelector('.months')
