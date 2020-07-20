@@ -16,7 +16,7 @@
   <meta property="og:title" content="เมื่อไหร่ประยุทธ์จะออกไป?" />
   <meta property="og:description"
     content="นับเวลาถอยหลังถึงวันที่พลเอกประยุทธ์ จันทร์โอชา จะหมดวาระการเป็นนายกรัฐมนตรี" />
-  <meta property="og:image" content="/prayuth.jpg" />
+  <meta property="og:image" content="/https://raw.githubusercontent.com/phoomparin/howlonguntilprayuthleaves.com/master/prayuth.jpg" />
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
@@ -24,7 +24,7 @@
   <meta property="twitter:title" content="เมื่อไหร่ประยุทธ์จะออกไป?" />
   <meta property="twitter:description"
     content="นับเวลาถอยหลังถึงวันที่พลเอกประยุทธ์ จันทร์โอชา จะหมดวาระการเป็นนายกรัฐมนตรี" />
-  <meta property="twitter:image" content="/prayuth.jpg" />
+  <meta property="twitter:image" content="/https://raw.githubusercontent.com/phoomparin/howlonguntilprayuthleaves.com/master/prayuth.jpg" />
 
   <link href="https://fonts.googleapis.com/css?family=Chonburi&display=swap" rel="stylesheet" />
 
