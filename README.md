@@ -13,7 +13,7 @@
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://howlonguntilprayuthleaves.com" />
+  <meta property="og:url" content="" />
   <meta property="og:title" content="เมื่อไหร่ประยุทธ์จะออกไป?" />
   <meta property="og:description"
     content="นับเวลาถอยหลังถึงวันที่พลเอกประยุทธ์ จันทร์โอชา จะหมดวาระการเป็นนายกรัฐมนตรี" />
@@ -21,7 +21,7 @@
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image" />
-  <meta property="twitter:url" content="https://howlonguntilprayuthleaves.com" />
+  <meta property="twitter:url" content="" />
   <meta property="twitter:title" content="เมื่อไหร่ประยุทธ์จะออกไป?" />
   <meta property="twitter:description"
     content="นับเวลาถอยหลังถึงวันที่พลเอกประยุทธ์ จันทร์โอชา จะหมดวาระการเป็นนายกรัฐมนตรี" />
@@ -154,7 +154,7 @@
 <body>
   <div class="container">
     <h1 class="heading">
-      <a href="https://howlonguntilprayuthleaves.com/">เมื่อไหร่ประยุทธ์จะออกไป?</a>
+      <a href="https://du6pey.github.io/test/">เมื่อไหร่ประยุทธ์จะออกไป?</a>
     </h1>
 
     <div class="countdown">
